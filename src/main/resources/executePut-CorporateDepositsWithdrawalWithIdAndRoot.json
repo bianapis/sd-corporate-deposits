@@ -1,0 +1,14 @@
+{
+  "productInstanceReference" : "PIR750832",
+  "amount" : "USD 250",
+  "accountLimitType" : "transaction credit/debit",
+  "accountLimit" : "accountLimit",
+  "payeeReference" : "IPR780861",
+  "payeeProductInstanceReference" : "PPIR754963",
+  "customerReference" : "CR705941",
+  "payeeBankReference" : "PBR772922",
+  "currency" : "USD",
+  "valueDate" : "09-22-2018",
+  "withdrawalInstructionReference" : "WIR713092",
+  "paymentMechanism" : "paymentMechanism"
+}

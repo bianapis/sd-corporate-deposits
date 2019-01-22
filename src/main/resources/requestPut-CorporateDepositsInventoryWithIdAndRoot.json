@@ -1,0 +1,7 @@
+{
+  "inventoryItemType" : "pay-in slip",
+  "inventoryItemReference" : "IIR709790",
+  "productInstanceReference" : "PIR750832",
+  "inventoryItemStatus" : "issued",
+  "inventoryItemProperties" : "sequence numbers"
+}

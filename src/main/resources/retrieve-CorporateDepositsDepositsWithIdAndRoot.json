@@ -1,0 +1,13 @@
+{
+  "productInstanceReference" : "PIR750832",
+  "payerProductInstanceReference" : "PPIR754963",
+  "amount" : "USD 250",
+  "accountLimitType" : "transaction credit/debit",
+  "accountLimit" : "accountLimit",
+  "customerReference" : "CR705941",
+  "payerReference" : "IPR780861",
+  "payerBankReference" : "PBR772922",
+  "currency" : "USD",
+  "valueDate" : "09-22-2018",
+  "depositTransactionReference" : "DTR755703"
+}

@@ -1,0 +1,15 @@
+{
+  "statementPeriod" : "statementPeriod",
+  "statementTransactionType" : "statementTransactionType",
+  "transactionDateTime" : "09-22-2018",
+  "statementInstanceReference" : "SIR739236",
+  "transactionPrincipleAmount" : "USD 250",
+  "transactionType" : "transactionType",
+  "productInstanceReference" : "PIR750832",
+  "balanceType" : "booked",
+  "transactionRecordReference" : "TRR718658",
+  "transactionObligation" : "purchased service",
+  "balance" : "balance",
+  "statementType" : "balance",
+  "transactionCounterparty" : "payee"
+}

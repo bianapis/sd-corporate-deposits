@@ -1,0 +1,12 @@
+{
+  "standingOrderPurpose" : "for compliance reporting",
+  "productInstanceReference" : "PIR750832",
+  "amount" : "USD 250",
+  "payeeReference" : "IPR780861",
+  "payeeProductInstanceReference" : "PPIR754963",
+  "customerReference" : "CR705941",
+  "payeeBankReference" : "PBR772922",
+  "paymentSchedule" : "start date",
+  "standingOrderFacilityReference" : "SOFR793570",
+  "currency" : "USD"
+}

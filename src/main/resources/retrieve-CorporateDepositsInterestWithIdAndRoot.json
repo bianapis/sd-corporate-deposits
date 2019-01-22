@@ -1,0 +1,8 @@
+{
+  "productInstanceReference" : "PIR750832",
+  "interestRateTransactionReference" : "IRTR790220",
+  "rateApplicationSchedule" : "rateApplicationSchedule",
+  "applicableInterestRates" : "applicableInterestRates",
+  "rateRateConfiguration" : "rateRateConfiguration",
+  "accruedInterestAmount" : "USD 250"
+}

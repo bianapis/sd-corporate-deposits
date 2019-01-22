@@ -1,0 +1,20 @@
+{
+  "date" : "09-22-2018",
+  "allowedAccess" : "allowedAccess",
+  "taxReference" : "TR774398",
+  "accountType" : "accountType",
+  "accountCurrency" : "USD",
+  "partyReference" : "IPR780861",
+  "bankBranchLocationReference" : "BBR776502",
+  "optionType" : "selected charges included",
+  "accountStatus" : "pre-opened",
+  "productInstanceReference" : "PIR750832",
+  "involvedPartyObligationEntitlement" : "involvedPartyObligationEntitlement",
+  "dateType" : "open",
+  "accountLimitType" : "transaction credit/debit",
+  "accountLimit" : "accountLimit",
+  "involvedPartyReference" : "guarantor",
+  "customerReference" : "CR705941",
+  "corporateDepositAccountNumber" : "IBAN123",
+  "option" : "option"
+}

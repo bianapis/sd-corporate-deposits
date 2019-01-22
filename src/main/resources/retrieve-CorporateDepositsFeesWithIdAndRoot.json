@@ -1,0 +1,10 @@
+{
+  "feeDate" : "09-22-2018",
+  "productInstanceReference" : "PIR750832",
+  "feeConfiguration" : "feeConfiguration",
+  "feeAccrualAmount" : "USD 250",
+  "feeCharge" : "USD 250",
+  "feeType" : "feeType",
+  "feeProjectionsCommitments" : "feeProjectionsCommitments",
+  "feeTransactionReference" : "FTR724804"
+}

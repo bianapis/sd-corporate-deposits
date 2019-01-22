@@ -1,0 +1,8 @@
+{
+  "productInstanceReference" : "PIR750832",
+  "payeeReference" : "IPR780861",
+  "payeeProductInstanceReference" : "PPIR754963",
+  "customerReference" : "CR705941",
+  "sweepServiceConfiguration" : "threshold",
+  "sweepFacilityReference" : "SFR796682"
+}
